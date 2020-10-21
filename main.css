@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+.black-block {
+    background-color: black;
+    width: 900px;
+    height: 600px;
+}
+.orange-block {
+    background-color: orange;
+    width: 890px;
+    height: 590px;
+}
+.blocks-4 {
+    width: 890px;
+    height: 590px;
+    position: relative;
+    top: 140px;
+}
+.block1, .block2, .block3, .block4 {
+    width: 222px;
+    height: 300px;
+    float: left;
+}
+.block1 {
+    background-color: red;
+}.block2 {
+    background-color: green;
+}.block3 {
+    background-color: cornflowerblue;
+}.block4 {
+    background-color: black;
+}
